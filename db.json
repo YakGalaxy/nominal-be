@@ -1,34 +1,34 @@
 {
-  "projects": [
+  "documents": [
     {
       "id": 1,
       "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend."
+      "description": "Module 2 project - Integrate a React app with backend.",
+      "content": "Module 2 project - Integrate a React app with backend."
     },
     {
       "id": 2,
       "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack."
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "title": "Task 1",
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "title": "Task 2",
-      "description": "Install React Router and setup routes"
+      "description": "Create a full-stack application using MERN stack.",
+      "content": "Create a full-stack application using MERN stack."
     },
     {
       "id": 3,
-      "projectId": 2,
-      "title": "Task 3",
-      "description": "Create a form with 5 input fields"
+      "title": "Sample Title",
+      "description": "Sample Description",
+      "content": "{\"blocks\":[{\"key\":\"5mj3a\",\"text\":\"testing send to the back end\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+    },
+    {
+      "title": "Sample Title2",
+      "description": "Sample Description",
+      "content": "{\"blocks\":[{\"key\":\"5mj3a\",\"text\":\"testing send to the back end\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "id": 4
+    },
+    {
+      "title": "Sample Title 5",
+      "description": "Sample Description",
+      "content": "{\"blocks\":[{\"key\":\"5mj3a\",\"text\":\"testing send to the back end\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "id": 5
     }
   ]
 }
